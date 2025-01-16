@@ -4,19 +4,19 @@
     "url": "https://omnivore.m1xxos.me",
     "icon": "https://icons.duckduckgo.com/ip3/omnivore.m1xxos.me.ico",
     "slug": "omnivore",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 536,
-    "timeDay": 387,
-    "timeWeek": 536,
-    "timeMonth": 536,
-    "timeYear": 536,
+    "status": "up",
+    "uptime": "99.59%",
+    "uptimeDay": "98.70%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.59%",
+    "uptimeYear": "99.59%",
+    "time": 555,
+    "timeDay": 487,
+    "timeWeek": 555,
+    "timeMonth": 555,
+    "timeYear": 555,
     "dailyMinutesDown": {
-      "2025-01-16": 0
+      "2025-01-16": 19
     }
   }
 ]
