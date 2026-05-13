@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/omnivore.m1xxos.online.ico",
     "slug": "omnivore",
     "status": "up",
-    "uptime": "94.85%",
+    "uptime": "94.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.50%",
-    "uptimeYear": "93.34%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "93.43%",
     "time": 669,
-    "timeDay": 786,
-    "timeWeek": 568,
-    "timeMonth": 630,
-    "timeYear": 675,
+    "timeDay": 608,
+    "timeWeek": 580,
+    "timeMonth": 642,
+    "timeYear": 678,
     "dailyMinutesDown": {
       "2026-04-12": 656,
       "2026-04-07": 628,
@@ -61,8 +61,7 @@
       "2025-05-17": 1440,
       "2025-05-16": 1440,
       "2025-05-15": 1440,
-      "2025-05-14": 1440,
-      "2025-05-13": 1440
+      "2025-05-14": 1440
     }
   }
 ]
