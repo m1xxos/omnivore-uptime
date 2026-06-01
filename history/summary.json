@@ -6,10 +6,10 @@
     "slug": "omnivore",
     "status": "down",
     "uptime": "95.04%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.96%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "95.34%",
+    "uptimeDay": "96.42%",
+    "uptimeWeek": "98.45%",
+    "uptimeMonth": "99.64%",
+    "uptimeYear": "95.33%",
     "time": 702,
     "timeDay": 432,
     "timeWeek": 2531,
@@ -55,7 +55,8 @@
       "2026-03-25": 1440,
       "2026-03-24": 240,
       "2026-04-12": 656,
-      "2026-05-25": 104
+      "2026-05-25": 104,
+      "2026-06-01": 52
     }
   }
 ]
