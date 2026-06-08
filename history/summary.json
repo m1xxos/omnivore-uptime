@@ -4,17 +4,17 @@
     "url": "https://omnivore.m1xxos.online",
     "icon": "https://icons.duckduckgo.com/ip3/omnivore.m1xxos.online.ico",
     "slug": "omnivore",
-    "status": "down",
-    "uptime": "94.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "90.23%",
-    "uptimeMonth": "96.79%",
-    "uptimeYear": "95.10%",
+    "status": "up",
+    "uptime": "94.91%",
+    "uptimeDay": "83.78%",
+    "uptimeWeek": "87.91%",
+    "uptimeMonth": "96.26%",
+    "uptimeYear": "95.06%",
     "time": 695,
-    "timeDay": 332,
-    "timeWeek": 363,
-    "timeMonth": 1041,
-    "timeYear": 725,
+    "timeDay": 396,
+    "timeWeek": 375,
+    "timeMonth": 1028,
+    "timeYear": 724,
     "dailyMinutesDown": {
       "2025-06-11": 387,
       "2025-06-25": 16,
@@ -59,7 +59,8 @@
       "2026-06-03": 432,
       "2026-06-02": 34,
       "2026-06-06": 454,
-      "2026-06-05": 64
+      "2026-06-05": 64,
+      "2026-06-08": 234
     }
   }
 ]
